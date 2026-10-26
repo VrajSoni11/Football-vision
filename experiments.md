@@ -1,0 +1,1 @@
+| baseline | yolo26n COCO | 960 | – | – | – | 57.5% of frames have a ball box (includes false positives) | 15.4 people/frame; no referee/goalkeeper classes |
